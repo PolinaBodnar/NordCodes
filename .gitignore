@@ -1,0 +1,59 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IntelliJ cache
+out/
+.idea_modules/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf/
+
+# IntelliJ plugin-specific
+.idea/**/dataSources/
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+### Gradle (на всякий случай) ###
+.gradle/
+build/
+
+### Logs ###
+*.log
+
+### System files ###
+.DS_Store
+Thumbs.db
+
+### Java ###
+*.class
+
+### Temporary files ###
+*.tmp
+*.temp
+*.swp
+*.swo
+
+### Reports / artifacts ###
+
+*.xlsx
+*.pdf
+*.ods
+*.odt
+*.zip
+
+
